@@ -39,12 +39,12 @@ function printMessage(msg, callback){
 }
 
 function exeCommand(cmd, callback){
-	if (cmd == "v"){
+	if (cmd == "v" || cmd == "ver" || cmd == "version"){
 		console.log("CLI En-Cn Dictionary".cyan);
 		console.log("ver 0.1".green);
 		console.log("liusiwei.com".yellow);
 		callback();
-	}else if (cmd == "q"){
+	}else if (cmd == "q" || cmd == "quit" || cmd == "exit"){
 		process.exit();
 	}
 }
