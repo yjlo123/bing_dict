@@ -1,0 +1,11 @@
+{
+	"dependencies" : {
+		"cheerio" : "git+https://github.com/cheeriojs/cheerio.git",
+		"colors" : "git+https://github.com/Marak/colors.js.git",
+		"stdask" : "git+https://github.com/ZECTBynmo/stdask.git"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/yjlo123/bing_dict.git"
+	}
+}
