@@ -1,4 +1,4 @@
- #CLI Online En-Cn Dictionary
+# CLI Online En-Cn Dictionary
 A command line based online English to Chinese dictionary  
 Data from [cn.bing.com](http://cn.bing.com/)
 
